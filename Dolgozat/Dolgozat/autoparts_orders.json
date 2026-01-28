@@ -1,0 +1,2644 @@
+{
+  "export_date": "2026-01-27T14:30:00Z",
+  "shop_name": "AutoParts Hungary Kft.",
+  "customers": [
+    {
+      "customer_id": 1,
+      "name": "Kovács János",
+      "email": "kovacs.janos@email.hu",
+      "phone": "+36301234567",
+      "address": "1024 Budapest, Margit körút 45."
+    },
+    {
+      "customer_id": 2,
+      "name": "Nagy Péter",
+      "email": "nagy.peter@gmail.com",
+      "phone": "+36209876543",
+      "address": "6000 Kecskemét, Petőfi utca 12."
+    },
+    {
+      "customer_id": 3,
+      "name": "Szabó Katalin",
+      "email": "szabo.kata@freemail.hu",
+      "phone": "+36305551234",
+      "address": "4032 Debrecen, Piac utca 8."
+    },
+    {
+      "customer_id": 4,
+      "name": "Tóth Gábor",
+      "email": "toth.gabor@autoszerelo.hu",
+      "phone": "+36701112233",
+      "address": "9021 Győr, Jedlik Ányos utca 33."
+    },
+    {
+      "customer_id": 5,
+      "name": "Molnár Andrea",
+      "email": "molnar.andrea@citromail.hu",
+      "phone": "+36204445566",
+      "address": "7621 Pécs, Rákóczi út 101."
+    },
+    {
+      "customer_id": 6,
+      "name": "Kiss László",
+      "email": "kiss.laszlo@webmail.hu",
+      "phone": "+36307778899",
+      "address": "3525 Miskolc, Széchenyi utca 22."
+    },
+    {
+      "customer_id": 7,
+      "name": "Horváth Zoltán",
+      "email": "horvath.z@email.com",
+      "phone": "+36202223344",
+      "address": "6724 Szeged, Kossuth Lajos sugárút 56."
+    },
+    {
+      "customer_id": 8,
+      "name": "Varga Éva",
+      "email": "varga.eva@inbox.hu",
+      "phone": "+36308889900",
+      "address": "8000 Székesfehérvár, Árpád utca 18."
+    },
+    {
+      "customer_id": 9,
+      "name": "Balogh Tamás",
+      "email": "balogh.tamas@protonmail.com",
+      "phone": "+36705556677",
+      "address": "2600 Vác, Rózsa utca 5."
+    },
+    {
+      "customer_id": 10,
+      "name": "Farkas István",
+      "email": "farkas.istvan@gmail.com",
+      "phone": "+36203334455",
+      "address": "5000 Szolnok, Tiszaligeti sétány 9."
+    }
+  ],
+  "parts": [
+    {
+      "part_id": 101,
+      "name": "Bosch féktárcsa első",
+      "manufacturer": "Bosch",
+      "sku": "BSH-FT-2024-F",
+      "category": "Fékrendszer",
+      "unit_price": 12500,
+      "in_stock": 45
+    },
+    {
+      "part_id": 102,
+      "name": "Mann olajszűrő",
+      "manufacturer": "Mann-Filter",
+      "sku": "MAN-OLS-W712",
+      "category": "Szűrők",
+      "unit_price": 2800,
+      "in_stock": 120
+    },
+    {
+      "part_id": 103,
+      "name": "NGK gyújtógyertya készlet",
+      "manufacturer": "NGK",
+      "sku": "NGK-GGY-4PCS",
+      "category": "Gyújtás",
+      "unit_price": 8900,
+      "in_stock": 78
+    },
+    {
+      "part_id": 104,
+      "name": "Sachs hátsó lengéscsillapító",
+      "manufacturer": "Sachs",
+      "sku": "SCH-LC-H280",
+      "category": "Futómű",
+      "unit_price": 18500,
+      "in_stock": 32
+    },
+    {
+      "part_id": 105,
+      "name": "Valeo akkumulátor 60Ah",
+      "manufacturer": "Valeo",
+      "sku": "VAL-AKK-60AH",
+      "category": "Elektromos rendszer",
+      "unit_price": 28900,
+      "in_stock": 25
+    },
+    {
+      "part_id": 106,
+      "name": "Denso klíma kompresszor",
+      "manufacturer": "Denso",
+      "sku": "DNS-KLI-447D",
+      "category": "Klímarendszer",
+      "unit_price": 89000,
+      "in_stock": 8
+    },
+    {
+      "part_id": 107,
+      "name": "TRW fékbetét készlet első",
+      "manufacturer": "TRW",
+      "sku": "TRW-FB-GDB1",
+      "category": "Fékrendszer",
+      "unit_price": 9500,
+      "in_stock": 65
+    },
+    {
+      "part_id": 108,
+      "name": "Mahle levegőszűrő",
+      "manufacturer": "Mahle",
+      "sku": "MAH-LSZ-LX234",
+      "category": "Szűrők",
+      "unit_price": 4200,
+      "in_stock": 92
+    },
+    {
+      "part_id": 109,
+      "name": "SKF kerékcsapágy",
+      "manufacturer": "SKF",
+      "sku": "SKF-KC-BAH125",
+      "category": "Futómű",
+      "unit_price": 15400,
+      "in_stock": 41
+    },
+    {
+      "part_id": 110,
+      "name": "Hella xenon fényszóró",
+      "manufacturer": "Hella",
+      "sku": "HEL-FS-XEN-L",
+      "category": "Világítás",
+      "unit_price": 45000,
+      "in_stock": 12
+    },
+    {
+      "part_id": 111,
+      "name": "Gates fogasszíj készlet",
+      "manufacturer": "Gates",
+      "sku": "GAT-FSZ-K025",
+      "category": "Motor",
+      "unit_price": 22000,
+      "in_stock": 38
+    },
+    {
+      "part_id": 112,
+      "name": "Pierburg vízpumpa",
+      "manufacturer": "Pierburg",
+      "sku": "PIE-VP-7.0188",
+      "category": "Hűtőrendszer",
+      "unit_price": 16800,
+      "in_stock": 29
+    },
+    {
+      "part_id": 113,
+      "name": "Bosch ablaktörlő lapát pár",
+      "manufacturer": "Bosch",
+      "sku": "BSH-ATL-650",
+      "category": "Karosszéria",
+      "unit_price": 7200,
+      "in_stock": 88
+    },
+    {
+      "part_id": 114,
+      "name": "Febi gömbcsukló",
+      "manufacturer": "Febi",
+      "sku": "FEB-GCS-14358",
+      "category": "Futómű",
+      "unit_price": 5600,
+      "in_stock": 54
+    },
+    {
+      "part_id": 115,
+      "name": "Magneti Marelli generátor",
+      "manufacturer": "Magneti Marelli",
+      "sku": "MM-GEN-943",
+      "category": "Elektromos rendszer",
+      "unit_price": 52000,
+      "in_stock": 15
+    },
+    {
+      "part_id": 116,
+      "name": "Continental bordásszíj",
+      "manufacturer": "Continental",
+      "sku": "CON-BSZ-6PK",
+      "category": "Motor",
+      "unit_price": 3800,
+      "in_stock": 110
+    },
+    {
+      "part_id": 117,
+      "name": "Beru izzító gyertya",
+      "manufacturer": "Beru",
+      "sku": "BER-IZG-GV140",
+      "category": "Gyújtás",
+      "unit_price": 12500,
+      "in_stock": 36
+    },
+    {
+      "part_id": 118,
+      "name": "Lemförder lengőkar",
+      "manufacturer": "Lemförder",
+      "sku": "LEM-LK-2988",
+      "category": "Futómű",
+      "unit_price": 19500,
+      "in_stock": 28
+    },
+    {
+      "part_id": 119,
+      "name": "Hengst pollenszűrő",
+      "manufacturer": "Hengst",
+      "sku": "HEN-PSZ-E900",
+      "category": "Szűrők",
+      "unit_price": 5400,
+      "in_stock": 71
+    },
+    {
+      "part_id": 120,
+      "name": "ATE fékerősítő",
+      "manufacturer": "ATE",
+      "sku": "ATE-FER-03788",
+      "category": "Fékrendszer",
+      "unit_price": 38000,
+      "in_stock": 18
+    }
+  ],
+  "orders": [
+    {
+      "order_id": 2001,
+      "customer_id": 1,
+      "order_date": "2025-11-15T10:23:00Z",
+      "status": "Delivered",
+      "shipping_method": "GLS courier",
+      "payment_method": "Credit card",
+      "notes": "Please deliver on weekend",
+      "items": [
+        {
+          "part_id": 102,
+          "quantity": 2,
+          "unit_price": 2800,
+          "total": 5600
+        },
+        {
+          "part_id": 108,
+          "quantity": 1,
+          "unit_price": 4200,
+          "total": 4200
+        }
+      ],
+      "subtotal": 9800,
+      "shipping_cost": 1500,
+      "total": 11300
+    },
+    {
+      "order_id": 2002,
+      "customer_id": 3,
+      "order_date": "2025-11-16T14:45:00Z",
+      "status": "Delivered",
+      "shipping_method": "MPL",
+      "payment_method": "Cash on delivery",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 105,
+          "quantity": 1,
+          "unit_price": 28900,
+          "total": 28900
+        }
+      ],
+      "subtotal": 28900,
+      "shipping_cost": 1800,
+      "total": 30700
+    },
+    {
+      "order_id": 2003,
+      "customer_id": 4,
+      "order_date": "2025-11-18T09:12:00Z",
+      "status": "Processing",
+      "shipping_method": "Foxpost locker",
+      "payment_method": "Bank transfer",
+      "notes": "Invoice required",
+      "items": [
+        {
+          "part_id": 101,
+          "quantity": 2,
+          "unit_price": 12500,
+          "total": 25000
+        },
+        {
+          "part_id": 107,
+          "quantity": 1,
+          "unit_price": 9500,
+          "total": 9500
+        }
+      ],
+      "subtotal": 34500,
+      "shipping_cost": 0,
+      "total": 34500
+    },
+    {
+      "order_id": 2004,
+      "customer_id": 2,
+      "order_date": "2025-11-19T16:30:00Z",
+      "status": "Delivered",
+      "shipping_method": "GLS courier",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 111,
+          "quantity": 1,
+          "unit_price": 22000,
+          "total": 22000
+        },
+        {
+          "part_id": 112,
+          "quantity": 1,
+          "unit_price": 16800,
+          "total": 16800
+        }
+      ],
+      "subtotal": 38800,
+      "shipping_cost": 1500,
+      "total": 40300
+    },
+    {
+      "order_id": 2005,
+      "customer_id": 6,
+      "order_date": "2025-11-20T11:05:00Z",
+      "status": "Shipped",
+      "shipping_method": "MPL",
+      "payment_method": "Credit card",
+      "notes": "Deliver after 2PM",
+      "items": [
+        {
+          "part_id": 110,
+          "quantity": 2,
+          "unit_price": 45000,
+          "total": 90000
+        }
+      ],
+      "subtotal": 90000,
+      "shipping_cost": 1800,
+      "total": 91800
+    },
+    {
+      "order_id": 2006,
+      "customer_id": 5,
+      "order_date": "2025-11-21T08:55:00Z",
+      "status": "Delivered",
+      "shipping_method": "Store pickup",
+      "payment_method": "Cash",
+      "notes": "Will arrive tomorrow at 3PM",
+      "items": [
+        {
+          "part_id": 104,
+          "quantity": 2,
+          "unit_price": 18500,
+          "total": 37000
+        }
+      ],
+      "subtotal": 37000,
+      "shipping_cost": 0,
+      "total": 37000
+    },
+    {
+      "order_id": 2007,
+      "customer_id": 7,
+      "order_date": "2025-11-22T13:20:00Z",
+      "status": "Pending confirmation",
+      "shipping_method": "GLS courier",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 106,
+          "quantity": 1,
+          "unit_price": 89000,
+          "total": 89000
+        }
+      ],
+      "subtotal": 89000,
+      "shipping_cost": 1500,
+      "total": 90500
+    },
+    {
+      "order_id": 2008,
+      "customer_id": 8,
+      "order_date": "2025-11-23T10:40:00Z",
+      "status": "Processing",
+      "shipping_method": "Foxpost locker",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 113,
+          "quantity": 2,
+          "unit_price": 7200,
+          "total": 14400
+        },
+        {
+          "part_id": 108,
+          "quantity": 1,
+          "unit_price": 4200,
+          "total": 4200
+        }
+      ],
+      "subtotal": 18600,
+      "shipping_cost": 0,
+      "total": 18600
+    },
+    {
+      "order_id": 2009,
+      "customer_id": 9,
+      "order_date": "2025-11-24T15:15:00Z",
+      "status": "Shipped",
+      "shipping_method": "MPL",
+      "payment_method": "Cash on delivery",
+      "notes": "SMS notification requested",
+      "items": [
+        {
+          "part_id": 115,
+          "quantity": 1,
+          "unit_price": 52000,
+          "total": 52000
+        },
+        {
+          "part_id": 105,
+          "quantity": 1,
+          "unit_price": 28900,
+          "total": 28900
+        }
+      ],
+      "subtotal": 80900,
+      "shipping_cost": 1800,
+      "total": 82700
+    },
+    {
+      "order_id": 2010,
+      "customer_id": 10,
+      "order_date": "2025-11-25T09:30:00Z",
+      "status": "Processing",
+      "shipping_method": "GLS courier",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 118,
+          "quantity": 2,
+          "unit_price": 19500,
+          "total": 39000
+        },
+        {
+          "part_id": 120,
+          "quantity": 1,
+          "unit_price": 38000,
+          "total": 38000
+        }
+      ],
+      "subtotal": 77000,
+      "shipping_cost": 1500,
+      "total": 78500
+    },
+    {
+      "order_id": 2011,
+      "customer_id": 1,
+      "order_date": "2025-11-26T14:20:00Z",
+      "status": "Delivered",
+      "shipping_method": "GLS courier",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 103,
+          "quantity": 1,
+          "unit_price": 8900,
+          "total": 8900
+        },
+        {
+          "part_id": 102,
+          "quantity": 1,
+          "unit_price": 2800,
+          "total": 2800
+        }
+      ],
+      "subtotal": 11700,
+      "shipping_cost": 1500,
+      "total": 13200
+    },
+    {
+      "order_id": 2012,
+      "customer_id": 2,
+      "order_date": "2025-11-27T11:15:00Z",
+      "status": "Delivered",
+      "shipping_method": "Foxpost locker",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 116,
+          "quantity": 2,
+          "unit_price": 3800,
+          "total": 7600
+        }
+      ],
+      "subtotal": 7600,
+      "shipping_cost": 0,
+      "total": 7600
+    },
+    {
+      "order_id": 2013,
+      "customer_id": 3,
+      "order_date": "2025-11-28T09:45:00Z",
+      "status": "Delivered",
+      "shipping_method": "MPL",
+      "payment_method": "Bank transfer",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 109,
+          "quantity": 1,
+          "unit_price": 15400,
+          "total": 15400
+        },
+        {
+          "part_id": 114,
+          "quantity": 2,
+          "unit_price": 5600,
+          "total": 11200
+        }
+      ],
+      "subtotal": 26600,
+      "shipping_cost": 1800,
+      "total": 28400
+    },
+    {
+      "order_id": 2014,
+      "customer_id": 4,
+      "order_date": "2025-11-29T16:30:00Z",
+      "status": "Delivered",
+      "shipping_method": "GLS courier",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 101,
+          "quantity": 1,
+          "unit_price": 12500,
+          "total": 12500
+        },
+        {
+          "part_id": 107,
+          "quantity": 2,
+          "unit_price": 9500,
+          "total": 19000
+        }
+      ],
+      "subtotal": 31500,
+      "shipping_cost": 1500,
+      "total": 33000
+    },
+    {
+      "order_id": 2015,
+      "customer_id": 5,
+      "order_date": "2025-11-30T10:10:00Z",
+      "status": "Delivered",
+      "shipping_method": "Store pickup",
+      "payment_method": "Cash",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 119,
+          "quantity": 1,
+          "unit_price": 5400,
+          "total": 5400
+        },
+        {
+          "part_id": 108,
+          "quantity": 2,
+          "unit_price": 4200,
+          "total": 8400
+        }
+      ],
+      "subtotal": 13800,
+      "shipping_cost": 0,
+      "total": 13800
+    },
+    {
+      "order_id": 2016,
+      "customer_id": 6,
+      "order_date": "2025-12-01T13:25:00Z",
+      "status": "Delivered",
+      "shipping_method": "GLS courier",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 117,
+          "quantity": 1,
+          "unit_price": 12500,
+          "total": 12500
+        }
+      ],
+      "subtotal": 12500,
+      "shipping_cost": 1500,
+      "total": 14000
+    },
+    {
+      "order_id": 2017,
+      "customer_id": 7,
+      "order_date": "2025-12-02T08:50:00Z",
+      "status": "Delivered",
+      "shipping_method": "MPL",
+      "payment_method": "Cash on delivery",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 111,
+          "quantity": 1,
+          "unit_price": 22000,
+          "total": 22000
+        },
+        {
+          "part_id": 102,
+          "quantity": 2,
+          "unit_price": 2800,
+          "total": 5600
+        }
+      ],
+      "subtotal": 27600,
+      "shipping_cost": 1800,
+      "total": 29400
+    },
+    {
+      "order_id": 2018,
+      "customer_id": 8,
+      "order_date": "2025-12-03T15:40:00Z",
+      "status": "Delivered",
+      "shipping_method": "Foxpost locker",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 113,
+          "quantity": 1,
+          "unit_price": 7200,
+          "total": 7200
+        }
+      ],
+      "subtotal": 7200,
+      "shipping_cost": 0,
+      "total": 7200
+    },
+    {
+      "order_id": 2019,
+      "customer_id": 9,
+      "order_date": "2025-12-04T11:20:00Z",
+      "status": "Delivered",
+      "shipping_method": "GLS courier",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 104,
+          "quantity": 1,
+          "unit_price": 18500,
+          "total": 18500
+        },
+        {
+          "part_id": 109,
+          "quantity": 1,
+          "unit_price": 15400,
+          "total": 15400
+        }
+      ],
+      "subtotal": 33900,
+      "shipping_cost": 1500,
+      "total": 35400
+    },
+    {
+      "order_id": 2020,
+      "customer_id": 10,
+      "order_date": "2025-12-05T09:35:00Z",
+      "status": "Delivered",
+      "shipping_method": "MPL",
+      "payment_method": "Bank transfer",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 112,
+          "quantity": 1,
+          "unit_price": 16800,
+          "total": 16800
+        }
+      ],
+      "subtotal": 16800,
+      "shipping_cost": 1800,
+      "total": 18600
+    },
+    {
+      "order_id": 2021,
+      "customer_id": 1,
+      "order_date": "2025-12-06T14:15:00Z",
+      "status": "Delivered",
+      "shipping_method": "GLS courier",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 105,
+          "quantity": 1,
+          "unit_price": 28900,
+          "total": 28900
+        },
+        {
+          "part_id": 116,
+          "quantity": 1,
+          "unit_price": 3800,
+          "total": 3800
+        }
+      ],
+      "subtotal": 32700,
+      "shipping_cost": 1500,
+      "total": 34200
+    },
+    {
+      "order_id": 2022,
+      "customer_id": 2,
+      "order_date": "2025-12-07T10:50:00Z",
+      "status": "Delivered",
+      "shipping_method": "Foxpost locker",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 108,
+          "quantity": 1,
+          "unit_price": 4200,
+          "total": 4200
+        },
+        {
+          "part_id": 119,
+          "quantity": 1,
+          "unit_price": 5400,
+          "total": 5400
+        }
+      ],
+      "subtotal": 9600,
+      "shipping_cost": 0,
+      "total": 9600
+    },
+    {
+      "order_id": 2023,
+      "customer_id": 3,
+      "order_date": "2025-12-08T16:25:00Z",
+      "status": "Delivered",
+      "shipping_method": "GLS courier",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 118,
+          "quantity": 1,
+          "unit_price": 19500,
+          "total": 19500
+        },
+        {
+          "part_id": 114,
+          "quantity": 1,
+          "unit_price": 5600,
+          "total": 5600
+        }
+      ],
+      "subtotal": 25100,
+      "shipping_cost": 1500,
+      "total": 26600
+    },
+    {
+      "order_id": 2024,
+      "customer_id": 4,
+      "order_date": "2025-12-09T08:40:00Z",
+      "status": "Delivered",
+      "shipping_method": "Store pickup",
+      "payment_method": "Cash",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 101,
+          "quantity": 2,
+          "unit_price": 12500,
+          "total": 25000
+        }
+      ],
+      "subtotal": 25000,
+      "shipping_cost": 0,
+      "total": 25000
+    },
+    {
+      "order_id": 2025,
+      "customer_id": 5,
+      "order_date": "2025-12-10T13:55:00Z",
+      "status": "Delivered",
+      "shipping_method": "MPL",
+      "payment_method": "Cash on delivery",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 103,
+          "quantity": 2,
+          "unit_price": 8900,
+          "total": 17800
+        }
+      ],
+      "subtotal": 17800,
+      "shipping_cost": 1800,
+      "total": 19600
+    },
+    {
+      "order_id": 2026,
+      "customer_id": 6,
+      "order_date": "2025-12-11T11:30:00Z",
+      "status": "Delivered",
+      "shipping_method": "GLS courier",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 115,
+          "quantity": 1,
+          "unit_price": 52000,
+          "total": 52000
+        }
+      ],
+      "subtotal": 52000,
+      "shipping_cost": 1500,
+      "total": 53500
+    },
+    {
+      "order_id": 2027,
+      "customer_id": 7,
+      "order_date": "2025-12-12T09:15:00Z",
+      "status": "Delivered",
+      "shipping_method": "Foxpost locker",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 102,
+          "quantity": 3,
+          "unit_price": 2800,
+          "total": 8400
+        }
+      ],
+      "subtotal": 8400,
+      "shipping_cost": 0,
+      "total": 8400
+    },
+    {
+      "order_id": 2028,
+      "customer_id": 8,
+      "order_date": "2025-12-13T15:20:00Z",
+      "status": "Delivered",
+      "shipping_method": "GLS courier",
+      "payment_method": "Bank transfer",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 110,
+          "quantity": 1,
+          "unit_price": 45000,
+          "total": 45000
+        }
+      ],
+      "subtotal": 45000,
+      "shipping_cost": 1500,
+      "total": 46500
+    },
+    {
+      "order_id": 2029,
+      "customer_id": 9,
+      "order_date": "2025-12-14T10:05:00Z",
+      "status": "Delivered",
+      "shipping_method": "MPL",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 107,
+          "quantity": 1,
+          "unit_price": 9500,
+          "total": 9500
+        },
+        {
+          "part_id": 113,
+          "quantity": 1,
+          "unit_price": 7200,
+          "total": 7200
+        }
+      ],
+      "subtotal": 16700,
+      "shipping_cost": 1800,
+      "total": 18500
+    },
+    {
+      "order_id": 2030,
+      "customer_id": 10,
+      "order_date": "2025-12-15T14:45:00Z",
+      "status": "Delivered",
+      "shipping_method": "Store pickup",
+      "payment_method": "Cash",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 111,
+          "quantity": 1,
+          "unit_price": 22000,
+          "total": 22000
+        },
+        {
+          "part_id": 112,
+          "quantity": 1,
+          "unit_price": 16800,
+          "total": 16800
+        }
+      ],
+      "subtotal": 38800,
+      "shipping_cost": 0,
+      "total": 38800
+    },
+    {
+      "order_id": 2031,
+      "customer_id": 1,
+      "order_date": "2025-12-16T11:10:00Z",
+      "status": "Delivered",
+      "shipping_method": "GLS courier",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 104,
+          "quantity": 2,
+          "unit_price": 18500,
+          "total": 37000
+        }
+      ],
+      "subtotal": 37000,
+      "shipping_cost": 1500,
+      "total": 38500
+    },
+    {
+      "order_id": 2032,
+      "customer_id": 2,
+      "order_date": "2025-12-17T09:35:00Z",
+      "status": "Delivered",
+      "shipping_method": "Foxpost locker",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 119,
+          "quantity": 2,
+          "unit_price": 5400,
+          "total": 10800
+        }
+      ],
+      "subtotal": 10800,
+      "shipping_cost": 0,
+      "total": 10800
+    },
+    {
+      "order_id": 2033,
+      "customer_id": 3,
+      "order_date": "2025-12-18T16:50:00Z",
+      "status": "Delivered",
+      "shipping_method": "MPL",
+      "payment_method": "Cash on delivery",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 117,
+          "quantity": 1,
+          "unit_price": 12500,
+          "total": 12500
+        },
+        {
+          "part_id": 103,
+          "quantity": 1,
+          "unit_price": 8900,
+          "total": 8900
+        }
+      ],
+      "subtotal": 21400,
+      "shipping_cost": 1800,
+      "total": 23200
+    },
+    {
+      "order_id": 2034,
+      "customer_id": 4,
+      "order_date": "2025-12-19T13:20:00Z",
+      "status": "Delivered",
+      "shipping_method": "GLS courier",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 109,
+          "quantity": 2,
+          "unit_price": 15400,
+          "total": 30800
+        }
+      ],
+      "subtotal": 30800,
+      "shipping_cost": 1500,
+      "total": 32300
+    },
+    {
+      "order_id": 2035,
+      "customer_id": 5,
+      "order_date": "2025-12-20T10:15:00Z",
+      "status": "Delivered",
+      "shipping_method": "Store pickup",
+      "payment_method": "Cash",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 108,
+          "quantity": 1,
+          "unit_price": 4200,
+          "total": 4200
+        },
+        {
+          "part_id": 102,
+          "quantity": 1,
+          "unit_price": 2800,
+          "total": 2800
+        }
+      ],
+      "subtotal": 7000,
+      "shipping_cost": 0,
+      "total": 7000
+    },
+    {
+      "order_id": 2036,
+      "customer_id": 6,
+      "order_date": "2025-12-21T15:40:00Z",
+      "status": "Delivered",
+      "shipping_method": "GLS courier",
+      "payment_method": "Bank transfer",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 120,
+          "quantity": 1,
+          "unit_price": 38000,
+          "total": 38000
+        }
+      ],
+      "subtotal": 38000,
+      "shipping_cost": 1500,
+      "total": 39500
+    },
+    {
+      "order_id": 2037,
+      "customer_id": 7,
+      "order_date": "2025-12-22T08:55:00Z",
+      "status": "Delivered",
+      "shipping_method": "Foxpost locker",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 116,
+          "quantity": 1,
+          "unit_price": 3800,
+          "total": 3800
+        },
+        {
+          "part_id": 113,
+          "quantity": 1,
+          "unit_price": 7200,
+          "total": 7200
+        }
+      ],
+      "subtotal": 11000,
+      "shipping_cost": 0,
+      "total": 11000
+    },
+    {
+      "order_id": 2038,
+      "customer_id": 8,
+      "order_date": "2025-12-23T14:30:00Z",
+      "status": "Delivered",
+      "shipping_method": "MPL",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 106,
+          "quantity": 1,
+          "unit_price": 89000,
+          "total": 89000
+        }
+      ],
+      "subtotal": 89000,
+      "shipping_cost": 1800,
+      "total": 90800
+    },
+    {
+      "order_id": 2039,
+      "customer_id": 9,
+      "order_date": "2025-12-24T11:25:00Z",
+      "status": "Delivered",
+      "shipping_method": "GLS courier",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 101,
+          "quantity": 1,
+          "unit_price": 12500,
+          "total": 12500
+        },
+        {
+          "part_id": 107,
+          "quantity": 1,
+          "unit_price": 9500,
+          "total": 9500
+        }
+      ],
+      "subtotal": 22000,
+      "shipping_cost": 1500,
+      "total": 23500
+    },
+    {
+      "order_id": 2040,
+      "customer_id": 10,
+      "order_date": "2025-12-25T09:00:00Z",
+      "status": "Delivered",
+      "shipping_method": "Store pickup",
+      "payment_method": "Cash",
+      "notes": "Christmas order",
+      "items": [
+        {
+          "part_id": 118,
+          "quantity": 1,
+          "unit_price": 19500,
+          "total": 19500
+        },
+        {
+          "part_id": 114,
+          "quantity": 2,
+          "unit_price": 5600,
+          "total": 11200
+        }
+      ],
+      "subtotal": 30700,
+      "shipping_cost": 0,
+      "total": 30700
+    },
+    {
+      "order_id": 2041,
+      "customer_id": 1,
+      "order_date": "2025-12-26T13:45:00Z",
+      "status": "Delivered",
+      "shipping_method": "GLS courier",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 105,
+          "quantity": 1,
+          "unit_price": 28900,
+          "total": 28900
+        }
+      ],
+      "subtotal": 28900,
+      "shipping_cost": 1500,
+      "total": 30400
+    },
+    {
+      "order_id": 2042,
+      "customer_id": 2,
+      "order_date": "2025-12-27T10:20:00Z",
+      "status": "Delivered",
+      "shipping_method": "Foxpost locker",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 102,
+          "quantity": 2,
+          "unit_price": 2800,
+          "total": 5600
+        },
+        {
+          "part_id": 108,
+          "quantity": 1,
+          "unit_price": 4200,
+          "total": 4200
+        }
+      ],
+      "subtotal": 9800,
+      "shipping_cost": 0,
+      "total": 9800
+    },
+    {
+      "order_id": 2043,
+      "customer_id": 3,
+      "order_date": "2025-12-28T16:10:00Z",
+      "status": "Delivered",
+      "shipping_method": "MPL",
+      "payment_method": "Bank transfer",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 111,
+          "quantity": 1,
+          "unit_price": 22000,
+          "total": 22000
+        }
+      ],
+      "subtotal": 22000,
+      "shipping_cost": 1800,
+      "total": 23800
+    },
+    {
+      "order_id": 2044,
+      "customer_id": 4,
+      "order_date": "2025-12-29T11:35:00Z",
+      "status": "Delivered",
+      "shipping_method": "GLS courier",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 115,
+          "quantity": 1,
+          "unit_price": 52000,
+          "total": 52000
+        },
+        {
+          "part_id": 116,
+          "quantity": 1,
+          "unit_price": 3800,
+          "total": 3800
+        }
+      ],
+      "subtotal": 55800,
+      "shipping_cost": 1500,
+      "total": 57300
+    },
+    {
+      "order_id": 2045,
+      "customer_id": 5,
+      "order_date": "2025-12-30T08:50:00Z",
+      "status": "Delivered",
+      "shipping_method": "Store pickup",
+      "payment_method": "Cash",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 110,
+          "quantity": 1,
+          "unit_price": 45000,
+          "total": 45000
+        }
+      ],
+      "subtotal": 45000,
+      "shipping_cost": 0,
+      "total": 45000
+    },
+    {
+      "order_id": 2046,
+      "customer_id": 6,
+      "order_date": "2025-12-31T15:25:00Z",
+      "status": "Delivered",
+      "shipping_method": "GLS courier",
+      "payment_method": "Credit card",
+      "notes": "Last order of the year",
+      "items": [
+        {
+          "part_id": 103,
+          "quantity": 1,
+          "unit_price": 8900,
+          "total": 8900
+        },
+        {
+          "part_id": 119,
+          "quantity": 1,
+          "unit_price": 5400,
+          "total": 5400
+        }
+      ],
+      "subtotal": 14300,
+      "shipping_cost": 1500,
+      "total": 15800
+    },
+    {
+      "order_id": 2047,
+      "customer_id": 7,
+      "order_date": "2026-01-02T10:15:00Z",
+      "status": "Delivered",
+      "shipping_method": "Foxpost locker",
+      "payment_method": "Credit card",
+      "notes": "First order of the year",
+      "items": [
+        {
+          "part_id": 112,
+          "quantity": 1,
+          "unit_price": 16800,
+          "total": 16800
+        },
+        {
+          "part_id": 113,
+          "quantity": 1,
+          "unit_price": 7200,
+          "total": 7200
+        }
+      ],
+      "subtotal": 24000,
+      "shipping_cost": 0,
+      "total": 24000
+    },
+    {
+      "order_id": 2048,
+      "customer_id": 8,
+      "order_date": "2026-01-03T14:40:00Z",
+      "status": "Delivered",
+      "shipping_method": "MPL",
+      "payment_method": "Cash on delivery",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 104,
+          "quantity": 1,
+          "unit_price": 18500,
+          "total": 18500
+        },
+        {
+          "part_id": 109,
+          "quantity": 1,
+          "unit_price": 15400,
+          "total": 15400
+        }
+      ],
+      "subtotal": 33900,
+      "shipping_cost": 1800,
+      "total": 35700
+    },
+    {
+      "order_id": 2049,
+      "customer_id": 9,
+      "order_date": "2026-01-04T09:25:00Z",
+      "status": "Delivered",
+      "shipping_method": "GLS courier",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 101,
+          "quantity": 2,
+          "unit_price": 12500,
+          "total": 25000
+        },
+        {
+          "part_id": 107,
+          "quantity": 1,
+          "unit_price": 9500,
+          "total": 9500
+        }
+      ],
+      "subtotal": 34500,
+      "shipping_cost": 1500,
+      "total": 36000
+    },
+    {
+      "order_id": 2050,
+      "customer_id": 10,
+      "order_date": "2026-01-05T11:50:00Z",
+      "status": "Delivered",
+      "shipping_method": "Store pickup",
+      "payment_method": "Cash",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 117,
+          "quantity": 1,
+          "unit_price": 12500,
+          "total": 12500
+        }
+      ],
+      "subtotal": 12500,
+      "shipping_cost": 0,
+      "total": 12500
+    },
+    {
+      "order_id": 2051,
+      "customer_id": 1,
+      "order_date": "2026-01-06T16:05:00Z",
+      "status": "Delivered",
+      "shipping_method": "GLS courier",
+      "payment_method": "Bank transfer",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 118,
+          "quantity": 1,
+          "unit_price": 19500,
+          "total": 19500
+        },
+        {
+          "part_id": 114,
+          "quantity": 1,
+          "unit_price": 5600,
+          "total": 5600
+        }
+      ],
+      "subtotal": 25100,
+      "shipping_cost": 1500,
+      "total": 26600
+    },
+    {
+      "order_id": 2052,
+      "customer_id": 2,
+      "order_date": "2026-01-07T13:30:00Z",
+      "status": "Delivered",
+      "shipping_method": "Foxpost locker",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 102,
+          "quantity": 1,
+          "unit_price": 2800,
+          "total": 2800
+        },
+        {
+          "part_id": 108,
+          "quantity": 1,
+          "unit_price": 4200,
+          "total": 4200
+        },
+        {
+          "part_id": 119,
+          "quantity": 1,
+          "unit_price": 5400,
+          "total": 5400
+        }
+      ],
+      "subtotal": 12400,
+      "shipping_cost": 0,
+      "total": 12400
+    },
+    {
+      "order_id": 2053,
+      "customer_id": 3,
+      "order_date": "2026-01-08T10:45:00Z",
+      "status": "Delivered",
+      "shipping_method": "MPL",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 120,
+          "quantity": 1,
+          "unit_price": 38000,
+          "total": 38000
+        }
+      ],
+      "subtotal": 38000,
+      "shipping_cost": 1800,
+      "total": 39800
+    },
+    {
+      "order_id": 2054,
+      "customer_id": 4,
+      "order_date": "2026-01-09T08:20:00Z",
+      "status": "Delivered",
+      "shipping_method": "GLS courier",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 105,
+          "quantity": 1,
+          "unit_price": 28900,
+          "total": 28900
+        },
+        {
+          "part_id": 103,
+          "quantity": 1,
+          "unit_price": 8900,
+          "total": 8900
+        }
+      ],
+      "subtotal": 37800,
+      "shipping_cost": 1500,
+      "total": 39300
+    },
+    {
+      "order_id": 2055,
+      "customer_id": 5,
+      "order_date": "2026-01-10T15:10:00Z",
+      "status": "Delivered",
+      "shipping_method": "Store pickup",
+      "payment_method": "Cash",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 116,
+          "quantity": 2,
+          "unit_price": 3800,
+          "total": 7600
+        }
+      ],
+      "subtotal": 7600,
+      "shipping_cost": 0,
+      "total": 7600
+    },
+    {
+      "order_id": 2056,
+      "customer_id": 6,
+      "order_date": "2026-01-11T11:55:00Z",
+      "status": "Delivered",
+      "shipping_method": "GLS courier",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 111,
+          "quantity": 1,
+          "unit_price": 22000,
+          "total": 22000
+        },
+        {
+          "part_id": 112,
+          "quantity": 1,
+          "unit_price": 16800,
+          "total": 16800
+        }
+      ],
+      "subtotal": 38800,
+      "shipping_cost": 1500,
+      "total": 40300
+    },
+    {
+      "order_id": 2057,
+      "customer_id": 7,
+      "order_date": "2026-01-12T09:40:00Z",
+      "status": "Delivered",
+      "shipping_method": "Foxpost locker",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 113,
+          "quantity": 1,
+          "unit_price": 7200,
+          "total": 7200
+        }
+      ],
+      "subtotal": 7200,
+      "shipping_cost": 0,
+      "total": 7200
+    },
+    {
+      "order_id": 2058,
+      "customer_id": 8,
+      "order_date": "2026-01-13T14:25:00Z",
+      "status": "Delivered",
+      "shipping_method": "MPL",
+      "payment_method": "Bank transfer",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 110,
+          "quantity": 1,
+          "unit_price": 45000,
+          "total": 45000
+        }
+      ],
+      "subtotal": 45000,
+      "shipping_cost": 1800,
+      "total": 46800
+    },
+    {
+      "order_id": 2059,
+      "customer_id": 9,
+      "order_date": "2026-01-14T10:35:00Z",
+      "status": "Delivered",
+      "shipping_method": "GLS courier",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 104,
+          "quantity": 1,
+          "unit_price": 18500,
+          "total": 18500
+        },
+        {
+          "part_id": 109,
+          "quantity": 2,
+          "unit_price": 15400,
+          "total": 30800
+        }
+      ],
+      "subtotal": 49300,
+      "shipping_cost": 1500,
+      "total": 50800
+    },
+    {
+      "order_id": 2060,
+      "customer_id": 10,
+      "order_date": "2026-01-15T16:50:00Z",
+      "status": "Shipped",
+      "shipping_method": "Store pickup",
+      "payment_method": "Cash",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 101,
+          "quantity": 1,
+          "unit_price": 12500,
+          "total": 12500
+        },
+        {
+          "part_id": 107,
+          "quantity": 2,
+          "unit_price": 9500,
+          "total": 19000
+        }
+      ],
+      "subtotal": 31500,
+      "shipping_cost": 0,
+      "total": 31500
+    },
+    {
+      "order_id": 2061,
+      "customer_id": 1,
+      "order_date": "2026-01-16T08:15:00Z",
+      "status": "Shipped",
+      "shipping_method": "GLS courier",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 115,
+          "quantity": 1,
+          "unit_price": 52000,
+          "total": 52000
+        }
+      ],
+      "subtotal": 52000,
+      "shipping_cost": 1500,
+      "total": 53500
+    },
+    {
+      "order_id": 2062,
+      "customer_id": 2,
+      "order_date": "2026-01-17T13:40:00Z",
+      "status": "Shipped",
+      "shipping_method": "Foxpost locker",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 102,
+          "quantity": 2,
+          "unit_price": 2800,
+          "total": 5600
+        },
+        {
+          "part_id": 119,
+          "quantity": 1,
+          "unit_price": 5400,
+          "total": 5400
+        }
+      ],
+      "subtotal": 11000,
+      "shipping_cost": 0,
+      "total": 11000
+    },
+    {
+      "order_id": 2063,
+      "customer_id": 3,
+      "order_date": "2026-01-18T11:05:00Z",
+      "status": "Shipped",
+      "shipping_method": "MPL",
+      "payment_method": "Cash on delivery",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 106,
+          "quantity": 1,
+          "unit_price": 89000,
+          "total": 89000
+        }
+      ],
+      "subtotal": 89000,
+      "shipping_cost": 1800,
+      "total": 90800
+    },
+    {
+      "order_id": 2064,
+      "customer_id": 4,
+      "order_date": "2026-01-19T09:30:00Z",
+      "status": "Shipped",
+      "shipping_method": "GLS courier",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 117,
+          "quantity": 1,
+          "unit_price": 12500,
+          "total": 12500
+        },
+        {
+          "part_id": 103,
+          "quantity": 1,
+          "unit_price": 8900,
+          "total": 8900
+        }
+      ],
+      "subtotal": 21400,
+      "shipping_cost": 1500,
+      "total": 22900
+    },
+    {
+      "order_id": 2065,
+      "customer_id": 5,
+      "order_date": "2026-01-20T15:20:00Z",
+      "status": "Shipped",
+      "shipping_method": "Store pickup",
+      "payment_method": "Cash",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 118,
+          "quantity": 2,
+          "unit_price": 19500,
+          "total": 39000
+        }
+      ],
+      "subtotal": 39000,
+      "shipping_cost": 0,
+      "total": 39000
+    },
+    {
+      "order_id": 2066,
+      "customer_id": 6,
+      "order_date": "2026-01-21T10:45:00Z",
+      "status": "Processing",
+      "shipping_method": "GLS courier",
+      "payment_method": "Bank transfer",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 108,
+          "quantity": 1,
+          "unit_price": 4200,
+          "total": 4200
+        },
+        {
+          "part_id": 113,
+          "quantity": 2,
+          "unit_price": 7200,
+          "total": 14400
+        }
+      ],
+      "subtotal": 18600,
+      "shipping_cost": 1500,
+      "total": 20100
+    },
+    {
+      "order_id": 2067,
+      "customer_id": 7,
+      "order_date": "2026-01-22T14:10:00Z",
+      "status": "Processing",
+      "shipping_method": "Foxpost locker",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 105,
+          "quantity": 1,
+          "unit_price": 28900,
+          "total": 28900
+        },
+        {
+          "part_id": 116,
+          "quantity": 1,
+          "unit_price": 3800,
+          "total": 3800
+        }
+      ],
+      "subtotal": 32700,
+      "shipping_cost": 0,
+      "total": 32700
+    },
+    {
+      "order_id": 2068,
+      "customer_id": 8,
+      "order_date": "2026-01-23T09:55:00Z",
+      "status": "Processing",
+      "shipping_method": "MPL",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 111,
+          "quantity": 1,
+          "unit_price": 22000,
+          "total": 22000
+        }
+      ],
+      "subtotal": 22000,
+      "shipping_cost": 1800,
+      "total": 23800
+    },
+    {
+      "order_id": 2069,
+      "customer_id": 9,
+      "order_date": "2026-01-24T11:25:00Z",
+      "status": "Processing",
+      "shipping_method": "GLS courier",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 114,
+          "quantity": 2,
+          "unit_price": 5600,
+          "total": 11200
+        },
+        {
+          "part_id": 109,
+          "quantity": 1,
+          "unit_price": 15400,
+          "total": 15400
+        }
+      ],
+      "subtotal": 26600,
+      "shipping_cost": 1500,
+      "total": 28100
+    },
+    {
+      "order_id": 2070,
+      "customer_id": 10,
+      "order_date": "2026-01-25T16:35:00Z",
+      "status": "Processing",
+      "shipping_method": "Store pickup",
+      "payment_method": "Cash",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 120,
+          "quantity": 1,
+          "unit_price": 38000,
+          "total": 38000
+        }
+      ],
+      "subtotal": 38000,
+      "shipping_cost": 0,
+      "total": 38000
+    },
+    {
+      "order_id": 2071,
+      "customer_id": 1,
+      "order_date": "2026-01-26T08:50:00Z",
+      "status": "Processing",
+      "shipping_method": "GLS courier",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 110,
+          "quantity": 1,
+          "unit_price": 45000,
+          "total": 45000
+        }
+      ],
+      "subtotal": 45000,
+      "shipping_cost": 1500,
+      "total": 46500
+    },
+    {
+      "order_id": 2072,
+      "customer_id": 2,
+      "order_date": "2026-01-26T13:15:00Z",
+      "status": "Processing",
+      "shipping_method": "Foxpost locker",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 102,
+          "quantity": 1,
+          "unit_price": 2800,
+          "total": 2800
+        },
+        {
+          "part_id": 108,
+          "quantity": 1,
+          "unit_price": 4200,
+          "total": 4200
+        }
+      ],
+      "subtotal": 7000,
+      "shipping_cost": 0,
+      "total": 7000
+    },
+    {
+      "order_id": 2073,
+      "customer_id": 3,
+      "order_date": "2026-01-26T10:40:00Z",
+      "status": "Pending confirmation",
+      "shipping_method": "MPL",
+      "payment_method": "Bank transfer",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 104,
+          "quantity": 1,
+          "unit_price": 18500,
+          "total": 18500
+        },
+        {
+          "part_id": 114,
+          "quantity": 1,
+          "unit_price": 5600,
+          "total": 5600
+        }
+      ],
+      "subtotal": 24100,
+      "shipping_cost": 1800,
+      "total": 25900
+    },
+    {
+      "order_id": 2074,
+      "customer_id": 4,
+      "order_date": "2026-01-26T15:05:00Z",
+      "status": "Pending confirmation",
+      "shipping_method": "GLS courier",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 112,
+          "quantity": 1,
+          "unit_price": 16800,
+          "total": 16800
+        },
+        {
+          "part_id": 103,
+          "quantity": 1,
+          "unit_price": 8900,
+          "total": 8900
+        }
+      ],
+      "subtotal": 25700,
+      "shipping_cost": 1500,
+      "total": 27200
+    },
+    {
+      "order_id": 2075,
+      "customer_id": 5,
+      "order_date": "2026-01-27T09:20:00Z",
+      "status": "Pending confirmation",
+      "shipping_method": "Store pickup",
+      "payment_method": "Cash",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 101,
+          "quantity": 1,
+          "unit_price": 12500,
+          "total": 12500
+        },
+        {
+          "part_id": 107,
+          "quantity": 1,
+          "unit_price": 9500,
+          "total": 9500
+        }
+      ],
+      "subtotal": 22000,
+      "shipping_cost": 0,
+      "total": 22000
+    },
+    {
+      "order_id": 2076,
+      "customer_id": 6,
+      "order_date": "2026-01-27T11:45:00Z",
+      "status": "Pending confirmation",
+      "shipping_method": "GLS courier",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 115,
+          "quantity": 1,
+          "unit_price": 52000,
+          "total": 52000
+        },
+        {
+          "part_id": 116,
+          "quantity": 1,
+          "unit_price": 3800,
+          "total": 3800
+        }
+      ],
+      "subtotal": 55800,
+      "shipping_cost": 1500,
+      "total": 57300
+    },
+    {
+      "order_id": 2077,
+      "customer_id": 7,
+      "order_date": "2026-01-27T08:30:00Z",
+      "status": "Pending confirmation",
+      "shipping_method": "Foxpost locker",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 119,
+          "quantity": 1,
+          "unit_price": 5400,
+          "total": 5400
+        },
+        {
+          "part_id": 113,
+          "quantity": 1,
+          "unit_price": 7200,
+          "total": 7200
+        }
+      ],
+      "subtotal": 12600,
+      "shipping_cost": 0,
+      "total": 12600
+    },
+    {
+      "order_id": 2078,
+      "customer_id": 8,
+      "order_date": "2026-01-27T14:00:00Z",
+      "status": "Pending confirmation",
+      "shipping_method": "MPL",
+      "payment_method": "Cash on delivery",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 118,
+          "quantity": 1,
+          "unit_price": 19500,
+          "total": 19500
+        }
+      ],
+      "subtotal": 19500,
+      "shipping_cost": 1800,
+      "total": 21300
+    },
+    {
+      "order_id": 2079,
+      "customer_id": 9,
+      "order_date": "2026-01-27T10:15:00Z",
+      "status": "Pending confirmation",
+      "shipping_method": "GLS courier",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 105,
+          "quantity": 1,
+          "unit_price": 28900,
+          "total": 28900
+        }
+      ],
+      "subtotal": 28900,
+      "shipping_cost": 1500,
+      "total": 30400
+    },
+    {
+      "order_id": 2080,
+      "customer_id": 10,
+      "order_date": "2026-01-27T13:25:00Z",
+      "status": "Pending confirmation",
+      "shipping_method": "Store pickup",
+      "payment_method": "Cash",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 109,
+          "quantity": 1,
+          "unit_price": 15400,
+          "total": 15400
+        },
+        {
+          "part_id": 117,
+          "quantity": 1,
+          "unit_price": 12500,
+          "total": 12500
+        }
+      ],
+      "subtotal": 27900,
+      "shipping_cost": 0,
+      "total": 27900
+    },
+    {
+      "order_id": 2081,
+      "customer_id": 1,
+      "order_date": "2026-01-27T09:50:00Z",
+      "status": "Pending confirmation",
+      "shipping_method": "GLS courier",
+      "payment_method": "Bank transfer",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 111,
+          "quantity": 1,
+          "unit_price": 22000,
+          "total": 22000
+        },
+        {
+          "part_id": 112,
+          "quantity": 1,
+          "unit_price": 16800,
+          "total": 16800
+        }
+      ],
+      "subtotal": 38800,
+      "shipping_cost": 1500,
+      "total": 40300
+    },
+    {
+      "order_id": 2082,
+      "customer_id": 2,
+      "order_date": "2026-01-27T11:20:00Z",
+      "status": "Pending confirmation",
+      "shipping_method": "Foxpost locker",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 102,
+          "quantity": 3,
+          "unit_price": 2800,
+          "total": 8400
+        }
+      ],
+      "subtotal": 8400,
+      "shipping_cost": 0,
+      "total": 8400
+    },
+    {
+      "order_id": 2083,
+      "customer_id": 3,
+      "order_date": "2026-01-27T15:10:00Z",
+      "status": "Pending confirmation",
+      "shipping_method": "MPL",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 106,
+          "quantity": 1,
+          "unit_price": 89000,
+          "total": 89000
+        },
+        {
+          "part_id": 119,
+          "quantity": 1,
+          "unit_price": 5400,
+          "total": 5400
+        }
+      ],
+      "subtotal": 94400,
+      "shipping_cost": 1800,
+      "total": 96200
+    },
+    {
+      "order_id": 2084,
+      "customer_id": 4,
+      "order_date": "2026-01-27T08:05:00Z",
+      "status": "Pending confirmation",
+      "shipping_method": "GLS courier",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 110,
+          "quantity": 1,
+          "unit_price": 45000,
+          "total": 45000
+        }
+      ],
+      "subtotal": 45000,
+      "shipping_cost": 1500,
+      "total": 46500
+    },
+    {
+      "order_id": 2085,
+      "customer_id": 5,
+      "order_date": "2026-01-27T12:35:00Z",
+      "status": "Pending confirmation",
+      "shipping_method": "Store pickup",
+      "payment_method": "Cash",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 104,
+          "quantity": 2,
+          "unit_price": 18500,
+          "total": 37000
+        },
+        {
+          "part_id": 114,
+          "quantity": 2,
+          "unit_price": 5600,
+          "total": 11200
+        }
+      ],
+      "subtotal": 48200,
+      "shipping_cost": 0,
+      "total": 48200
+    },
+    {
+      "order_id": 2086,
+      "customer_id": 6,
+      "order_date": "2026-01-27T10:00:00Z",
+      "status": "Pending confirmation",
+      "shipping_method": "GLS courier",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 103,
+          "quantity": 1,
+          "unit_price": 8900,
+          "total": 8900
+        },
+        {
+          "part_id": 108,
+          "quantity": 1,
+          "unit_price": 4200,
+          "total": 4200
+        }
+      ],
+      "subtotal": 13100,
+      "shipping_cost": 1500,
+      "total": 14600
+    },
+    {
+      "order_id": 2087,
+      "customer_id": 7,
+      "order_date": "2026-01-27T14:40:00Z",
+      "status": "Pending confirmation",
+      "shipping_method": "Foxpost locker",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 113,
+          "quantity": 1,
+          "unit_price": 7200,
+          "total": 7200
+        },
+        {
+          "part_id": 116,
+          "quantity": 1,
+          "unit_price": 3800,
+          "total": 3800
+        }
+      ],
+      "subtotal": 11000,
+      "shipping_cost": 0,
+      "total": 11000
+    },
+    {
+      "order_id": 2088,
+      "customer_id": 8,
+      "order_date": "2026-01-27T09:15:00Z",
+      "status": "Pending confirmation",
+      "shipping_method": "MPL",
+      "payment_method": "Bank transfer",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 120,
+          "quantity": 1,
+          "unit_price": 38000,
+          "total": 38000
+        }
+      ],
+      "subtotal": 38000,
+      "shipping_cost": 1800,
+      "total": 39800
+    },
+    {
+      "order_id": 2089,
+      "customer_id": 9,
+      "order_date": "2026-01-27T11:55:00Z",
+      "status": "Pending confirmation",
+      "shipping_method": "GLS courier",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 101,
+          "quantity": 1,
+          "unit_price": 12500,
+          "total": 12500
+        },
+        {
+          "part_id": 107,
+          "quantity": 1,
+          "unit_price": 9500,
+          "total": 9500
+        },
+        {
+          "part_id": 109,
+          "quantity": 1,
+          "unit_price": 15400,
+          "total": 15400
+        }
+      ],
+      "subtotal": 37400,
+      "shipping_cost": 1500,
+      "total": 38900
+    },
+    {
+      "order_id": 2090,
+      "customer_id": 10,
+      "order_date": "2026-01-27T13:05:00Z",
+      "status": "Pending confirmation",
+      "shipping_method": "Store pickup",
+      "payment_method": "Cash",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 115,
+          "quantity": 1,
+          "unit_price": 52000,
+          "total": 52000
+        }
+      ],
+      "subtotal": 52000,
+      "shipping_cost": 0,
+      "total": 52000
+    },
+    {
+      "order_id": 2091,
+      "customer_id": 1,
+      "order_date": "2026-01-27T08:25:00Z",
+      "status": "Pending confirmation",
+      "shipping_method": "GLS courier",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 118,
+          "quantity": 1,
+          "unit_price": 19500,
+          "total": 19500
+        },
+        {
+          "part_id": 114,
+          "quantity": 1,
+          "unit_price": 5600,
+          "total": 5600
+        }
+      ],
+      "subtotal": 25100,
+      "shipping_cost": 1500,
+      "total": 26600
+    },
+    {
+      "order_id": 2092,
+      "customer_id": 2,
+      "order_date": "2026-01-27T10:50:00Z",
+      "status": "Pending confirmation",
+      "shipping_method": "Foxpost locker",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 102,
+          "quantity": 1,
+          "unit_price": 2800,
+          "total": 2800
+        },
+        {
+          "part_id": 119,
+          "quantity": 1,
+          "unit_price": 5400,
+          "total": 5400
+        }
+      ],
+      "subtotal": 8200,
+      "shipping_cost": 0,
+      "total": 8200
+    },
+    {
+      "order_id": 2093,
+      "customer_id": 3,
+      "order_date": "2026-01-27T15:30:00Z",
+      "status": "Pending confirmation",
+      "shipping_method": "MPL",
+      "payment_method": "Cash on delivery",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 105,
+          "quantity": 1,
+          "unit_price": 28900,
+          "total": 28900
+        },
+        {
+          "part_id": 117,
+          "quantity": 1,
+          "unit_price": 12500,
+          "total": 12500
+        }
+      ],
+      "subtotal": 41400,
+      "shipping_cost": 1800,
+      "total": 43200
+    },
+    {
+      "order_id": 2094,
+      "customer_id": 4,
+      "order_date": "2026-01-27T09:40:00Z",
+      "status": "Pending confirmation",
+      "shipping_method": "GLS courier",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 111,
+          "quantity": 1,
+          "unit_price": 22000,
+          "total": 22000
+        }
+      ],
+      "subtotal": 22000,
+      "shipping_cost": 1500,
+      "total": 23500
+    },
+    {
+      "order_id": 2095,
+      "customer_id": 5,
+      "order_date": "2026-01-27T12:15:00Z",
+      "status": "Pending confirmation",
+      "shipping_method": "Store pickup",
+      "payment_method": "Cash",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 112,
+          "quantity": 1,
+          "unit_price": 16800,
+          "total": 16800
+        },
+        {
+          "part_id": 113,
+          "quantity": 1,
+          "unit_price": 7200,
+          "total": 7200
+        }
+      ],
+      "subtotal": 24000,
+      "shipping_cost": 0,
+      "total": 24000
+    },
+    {
+      "order_id": 2096,
+      "customer_id": 6,
+      "order_date": "2026-01-27T14:25:00Z",
+      "status": "Pending confirmation",
+      "shipping_method": "GLS courier",
+      "payment_method": "Bank transfer",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 110,
+          "quantity": 1,
+          "unit_price": 45000,
+          "total": 45000
+        }
+      ],
+      "subtotal": 45000,
+      "shipping_cost": 1500,
+      "total": 46500
+    },
+    {
+      "order_id": 2097,
+      "customer_id": 7,
+      "order_date": "2026-01-27T11:35:00Z",
+      "status": "Pending confirmation",
+      "shipping_method": "Foxpost locker",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 104,
+          "quantity": 1,
+          "unit_price": 18500,
+          "total": 18500
+        }
+      ],
+      "subtotal": 18500,
+      "shipping_cost": 0,
+      "total": 18500
+    },
+    {
+      "order_id": 2098,
+      "customer_id": 8,
+      "order_date": "2026-01-27T08:45:00Z",
+      "status": "Pending confirmation",
+      "shipping_method": "MPL",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 103,
+          "quantity": 1,
+          "unit_price": 8900,
+          "total": 8900
+        },
+        {
+          "part_id": 108,
+          "quantity": 1,
+          "unit_price": 4200,
+          "total": 4200
+        },
+        {
+          "part_id": 116,
+          "quantity": 1,
+          "unit_price": 3800,
+          "total": 3800
+        }
+      ],
+      "subtotal": 16900,
+      "shipping_cost": 1800,
+      "total": 18700
+    },
+    {
+      "order_id": 2099,
+      "customer_id": 9,
+      "order_date": "2026-01-27T13:50:00Z",
+      "status": "Pending confirmation",
+      "shipping_method": "GLS courier",
+      "payment_method": "Credit card",
+      "notes": null,
+      "items": [
+        {
+          "part_id": 109,
+          "quantity": 1,
+          "unit_price": 15400,
+          "total": 15400
+        },
+        {
+          "part_id": 114,
+          "quantity": 1,
+          "unit_price": 5600,
+          "total": 5600
+        }
+      ],
+      "subtotal": 21000,
+      "shipping_cost": 1500,
+      "total": 22500
+    },
+    {
+      "order_id": 2100,
+      "customer_id": 10,
+      "order_date": "2026-01-27T10:30:00Z",
+      "status": "Pending confirmation",
+      "shipping_method": "Store pickup",
+      "payment_method": "Cash",
+      "notes": "Large order for workshop",
+      "items": [
+        {
+          "part_id": 101,
+          "quantity": 2,
+          "unit_price": 12500,
+          "total": 25000
+        },
+        {
+          "part_id": 107,
+          "quantity": 2,
+          "unit_price": 9500,
+          "total": 19000
+        },
+        {
+          "part_id": 102,
+          "quantity": 4,
+          "unit_price": 2800,
+          "total": 11200
+        }
+      ],
+      "subtotal": 55200,
+      "shipping_cost": 0,
+      "total": 55200
+    }
+  ],
+  "summary": {
+    "total_orders": 100,
+    "total_customers": 10,
+    "total_part_types": 20,
+    "total_revenue": 2894700
+  }
+}
